@@ -1,0 +1,11 @@
+name: System
+main: System\Main
+api: 3.0.0
+version: 1.0
+author: Crow
+
+ commands:
+  Vote:
+   description: §9Vote für §6§lPaincraft
+   usage: "/Vote"
+   aliases: ["vote", "VOTE"]
